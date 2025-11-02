@@ -1,0 +1,140 @@
+C:\Users\Hamid Reza\Desktop\New folder\Proj\Proj\obj\Debug\net5.0\DLMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamid Reza\Desktop\New folder\Proj\Proj\obj\Debug\net5.0\DLMS.AssemblyInfoInputs.cache
+C:\Users\Hamid Reza\Desktop\New folder\Proj\Proj\obj\Debug\net5.0\DLMS.AssemblyInfo.cs
+C:\Users\Hamid Reza\Desktop\New folder\Proj\Proj\obj\Debug\net5.0\DLMS.csproj.CoreCompileInputs.cache
+C:\Users\Hamid Reza\Desktop\New folder\Proj\Proj\bin\Debug\net5.0\clock.deps.json
+C:\Users\Hamid Reza\Desktop\New folder\Proj\Proj\bin\Debug\net5.0\clock.runtimeconfig.json
+C:\Users\Hamid Reza\Desktop\New folder\Proj\Proj\bin\Debug\net5.0\clock.runtimeconfig.dev.json
+C:\Users\Hamid Reza\Desktop\New folder\Proj\Proj\bin\Debug\net5.0\clock.exe
+C:\Users\Hamid Reza\Desktop\New folder\Proj\Proj\bin\Debug\net5.0\logicname.deps.json
+C:\Users\Hamid Reza\Desktop\New folder\Proj\Proj\bin\Debug\net5.0\logicname.runtimeconfig.json
+C:\Users\Hamid Reza\Desktop\New folder\Proj\Proj\bin\Debug\net5.0\logicname.runtimeconfig.dev.json
+C:\Users\Hamid Reza\Desktop\New folder\Proj\Proj\bin\Debug\net5.0\logicname.exe
+C:\Users\Hamid Reza\Desktop\New folder\Proj\Proj\bin\Debug\net5.0\DLMS.exe
+C:\Users\Hamid Reza\Desktop\New folder\Proj\Proj\bin\Debug\net5.0\DLMS.deps.json
+C:\Users\Hamid Reza\Desktop\New folder\Proj\Proj\bin\Debug\net5.0\DLMS.runtimeconfig.json
+C:\Users\Hamid Reza\Desktop\New folder\Proj\Proj\bin\Debug\net5.0\DLMS.runtimeconfig.dev.json
+C:\Users\Hamid Reza\Desktop\New folder\Proj\Proj\bin\Debug\net5.0\DLMS.dll
+C:\Users\Hamid Reza\Desktop\New folder\Proj\Proj\bin\Debug\net5.0\ref\DLMS.dll
+C:\Users\Hamid Reza\Desktop\New folder\Proj\Proj\bin\Debug\net5.0\DLMS.pdb
+C:\Users\Hamid Reza\Desktop\New folder\Proj\Proj\bin\Debug\net5.0\System.IO.Ports.dll
+C:\Users\Hamid Reza\Desktop\New folder\Proj\Proj\bin\Debug\net5.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Hamid Reza\Desktop\New folder\Proj\Proj\bin\Debug\net5.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Hamid Reza\Desktop\New folder\Proj\Proj\bin\Debug\net5.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Hamid Reza\Desktop\New folder\Proj\Proj\bin\Debug\net5.0\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Hamid Reza\Desktop\New folder\Proj\Proj\bin\Debug\net5.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Hamid Reza\Desktop\New folder\Proj\Proj\bin\Debug\net5.0\clock.dll
+C:\Users\Hamid Reza\Desktop\New folder\Proj\Proj\bin\Debug\net5.0\logicname.dll
+C:\Users\Hamid Reza\Desktop\New folder\Proj\Proj\bin\Debug\net5.0\clock.pdb
+C:\Users\Hamid Reza\Desktop\New folder\Proj\Proj\bin\Debug\net5.0\logicname.pdb
+C:\Users\Hamid Reza\Desktop\New folder\Proj\Proj\obj\Debug\net5.0\DLMS.csproj.AssemblyReference.cache
+C:\Users\Hamid Reza\Desktop\New folder\Proj\Proj\obj\Debug\net5.0\DLMS.csproj.CopyComplete
+C:\Users\Hamid Reza\Desktop\New folder\Proj\Proj\obj\Debug\net5.0\DLMS.dll
+C:\Users\Hamid Reza\Desktop\New folder\Proj\Proj\obj\Debug\net5.0\ref\DLMS.dll
+C:\Users\Hamid Reza\Desktop\New folder\Proj\Proj\obj\Debug\net5.0\DLMS.pdb
+C:\Users\Hamid Reza\Desktop\New folder\Proj\Proj\obj\Debug\net5.0\DLMS.genruntimeconfig.cache
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\Proj\bin\Debug\net5.0\clock.deps.json
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\Proj\bin\Debug\net5.0\clock.runtimeconfig.json
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\Proj\bin\Debug\net5.0\clock.runtimeconfig.dev.json
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\Proj\bin\Debug\net5.0\clock.exe
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\Proj\bin\Debug\net5.0\logicname.deps.json
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\Proj\bin\Debug\net5.0\logicname.runtimeconfig.json
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\Proj\bin\Debug\net5.0\logicname.runtimeconfig.dev.json
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\Proj\bin\Debug\net5.0\logicname.exe
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\Proj\bin\Debug\net5.0\DLMS.exe
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\Proj\bin\Debug\net5.0\DLMS.deps.json
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\Proj\bin\Debug\net5.0\DLMS.runtimeconfig.json
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\Proj\bin\Debug\net5.0\DLMS.runtimeconfig.dev.json
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\Proj\bin\Debug\net5.0\DLMS.dll
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\Proj\bin\Debug\net5.0\ref\DLMS.dll
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\Proj\bin\Debug\net5.0\DLMS.pdb
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\Proj\bin\Debug\net5.0\System.IO.Ports.dll
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\Proj\bin\Debug\net5.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\Proj\bin\Debug\net5.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\Proj\bin\Debug\net5.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\Proj\bin\Debug\net5.0\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\Proj\bin\Debug\net5.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\Proj\bin\Debug\net5.0\clock.dll
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\Proj\bin\Debug\net5.0\logicname.dll
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\Proj\bin\Debug\net5.0\clock.pdb
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\Proj\bin\Debug\net5.0\logicname.pdb
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\Proj\obj\Debug\net5.0\DLMS.csproj.AssemblyReference.cache
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\Proj\obj\Debug\net5.0\DLMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\Proj\obj\Debug\net5.0\DLMS.AssemblyInfoInputs.cache
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\Proj\obj\Debug\net5.0\DLMS.AssemblyInfo.cs
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\Proj\obj\Debug\net5.0\DLMS.csproj.CoreCompileInputs.cache
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\Proj\obj\Debug\net5.0\DLMS.csproj.CopyComplete
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\Proj\obj\Debug\net5.0\DLMS.dll
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\Proj\obj\Debug\net5.0\ref\DLMS.dll
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\Proj\obj\Debug\net5.0\DLMS.pdb
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\Proj\obj\Debug\net5.0\DLMS.genruntimeconfig.cache
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\Proj\bin\Debug\net5.0\clock.deps.json
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\Proj\bin\Debug\net5.0\clock.runtimeconfig.json
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\Proj\bin\Debug\net5.0\clock.runtimeconfig.dev.json
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\Proj\bin\Debug\net5.0\clock.exe
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\Proj\bin\Debug\net5.0\logicname.deps.json
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\Proj\bin\Debug\net5.0\logicname.runtimeconfig.json
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\Proj\bin\Debug\net5.0\logicname.runtimeconfig.dev.json
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\Proj\bin\Debug\net5.0\logicname.exe
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\Proj\bin\Debug\net5.0\DLMS.exe
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\Proj\bin\Debug\net5.0\DLMS.deps.json
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\Proj\bin\Debug\net5.0\DLMS.runtimeconfig.json
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\Proj\bin\Debug\net5.0\DLMS.runtimeconfig.dev.json
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\Proj\bin\Debug\net5.0\DLMS.dll
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\Proj\bin\Debug\net5.0\DLMS.pdb
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\Proj\bin\Debug\net5.0\System.IO.Ports.dll
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\Proj\bin\Debug\net5.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\Proj\bin\Debug\net5.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\Proj\bin\Debug\net5.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\Proj\bin\Debug\net5.0\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\Proj\bin\Debug\net5.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\Proj\bin\Debug\net5.0\clock.dll
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\Proj\bin\Debug\net5.0\logicname.dll
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\Proj\bin\Debug\net5.0\clock.pdb
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\Proj\bin\Debug\net5.0\logicname.pdb
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\Proj\obj\Debug\net5.0\DLMS.csproj.AssemblyReference.cache
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\Proj\obj\Debug\net5.0\DLMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\Proj\obj\Debug\net5.0\DLMS.AssemblyInfoInputs.cache
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\Proj\obj\Debug\net5.0\DLMS.AssemblyInfo.cs
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\Proj\obj\Debug\net5.0\DLMS.csproj.CoreCompileInputs.cache
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\Proj\obj\Debug\net5.0\DLMS.csproj.Up2Date
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\Proj\obj\Debug\net5.0\DLMS.dll
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\Proj\obj\Debug\net5.0\refint\DLMS.dll
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\Proj\obj\Debug\net5.0\DLMS.pdb
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\Proj\obj\Debug\net5.0\DLMS.genruntimeconfig.cache
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\Proj\obj\Debug\net5.0\ref\DLMS.dll
+G:\proj\project\C# codes\Proj\bin\Debug\net5.0\clock.deps.json
+G:\proj\project\C# codes\Proj\bin\Debug\net5.0\clock.runtimeconfig.json
+G:\proj\project\C# codes\Proj\bin\Debug\net5.0\clock.runtimeconfig.dev.json
+G:\proj\project\C# codes\Proj\bin\Debug\net5.0\clock.exe
+G:\proj\project\C# codes\Proj\bin\Debug\net5.0\logicname.deps.json
+G:\proj\project\C# codes\Proj\bin\Debug\net5.0\logicname.runtimeconfig.json
+G:\proj\project\C# codes\Proj\bin\Debug\net5.0\logicname.runtimeconfig.dev.json
+G:\proj\project\C# codes\Proj\bin\Debug\net5.0\logicname.exe
+G:\proj\project\C# codes\Proj\bin\Debug\net5.0\DLMS.exe
+G:\proj\project\C# codes\Proj\bin\Debug\net5.0\DLMS.deps.json
+G:\proj\project\C# codes\Proj\bin\Debug\net5.0\DLMS.runtimeconfig.json
+G:\proj\project\C# codes\Proj\bin\Debug\net5.0\DLMS.runtimeconfig.dev.json
+G:\proj\project\C# codes\Proj\bin\Debug\net5.0\DLMS.dll
+G:\proj\project\C# codes\Proj\bin\Debug\net5.0\DLMS.pdb
+G:\proj\project\C# codes\Proj\bin\Debug\net5.0\System.IO.Ports.dll
+G:\proj\project\C# codes\Proj\bin\Debug\net5.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+G:\proj\project\C# codes\Proj\bin\Debug\net5.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+G:\proj\project\C# codes\Proj\bin\Debug\net5.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+G:\proj\project\C# codes\Proj\bin\Debug\net5.0\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+G:\proj\project\C# codes\Proj\bin\Debug\net5.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+G:\proj\project\C# codes\Proj\bin\Debug\net5.0\clock.dll
+G:\proj\project\C# codes\Proj\bin\Debug\net5.0\logicname.dll
+G:\proj\project\C# codes\Proj\bin\Debug\net5.0\clock.pdb
+G:\proj\project\C# codes\Proj\bin\Debug\net5.0\logicname.pdb
+G:\proj\project\C# codes\Proj\obj\Debug\net5.0\DLMS.csproj.AssemblyReference.cache
+G:\proj\project\C# codes\Proj\obj\Debug\net5.0\DLMS.GeneratedMSBuildEditorConfig.editorconfig
+G:\proj\project\C# codes\Proj\obj\Debug\net5.0\DLMS.AssemblyInfoInputs.cache
+G:\proj\project\C# codes\Proj\obj\Debug\net5.0\DLMS.AssemblyInfo.cs
+G:\proj\project\C# codes\Proj\obj\Debug\net5.0\DLMS.csproj.CoreCompileInputs.cache
+G:\proj\project\C# codes\Proj\obj\Debug\net5.0\DLMS.csproj.Up2Date
+G:\proj\project\C# codes\Proj\obj\Debug\net5.0\DLMS.dll
+G:\proj\project\C# codes\Proj\obj\Debug\net5.0\refint\DLMS.dll
+G:\proj\project\C# codes\Proj\obj\Debug\net5.0\DLMS.pdb
+G:\proj\project\C# codes\Proj\obj\Debug\net5.0\DLMS.genruntimeconfig.cache
+G:\proj\project\C# codes\Proj\obj\Debug\net5.0\ref\DLMS.dll

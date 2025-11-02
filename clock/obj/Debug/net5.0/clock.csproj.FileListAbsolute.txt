@@ -1,0 +1,91 @@
+C:\Users\Hamid Reza\Desktop\New folder\Proj\clock\obj\Debug\net5.0\clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamid Reza\Desktop\New folder\Proj\clock\obj\Debug\net5.0\clock.AssemblyInfoInputs.cache
+C:\Users\Hamid Reza\Desktop\New folder\Proj\clock\obj\Debug\net5.0\clock.AssemblyInfo.cs
+C:\Users\Hamid Reza\Desktop\New folder\Proj\clock\obj\Debug\net5.0\clock.csproj.CoreCompileInputs.cache
+C:\Users\Hamid Reza\Desktop\New folder\Proj\clock\bin\Debug\net5.0\clock.exe
+C:\Users\Hamid Reza\Desktop\New folder\Proj\clock\bin\Debug\net5.0\clock.deps.json
+C:\Users\Hamid Reza\Desktop\New folder\Proj\clock\bin\Debug\net5.0\clock.runtimeconfig.json
+C:\Users\Hamid Reza\Desktop\New folder\Proj\clock\bin\Debug\net5.0\clock.runtimeconfig.dev.json
+C:\Users\Hamid Reza\Desktop\New folder\Proj\clock\bin\Debug\net5.0\clock.dll
+C:\Users\Hamid Reza\Desktop\New folder\Proj\clock\bin\Debug\net5.0\ref\clock.dll
+C:\Users\Hamid Reza\Desktop\New folder\Proj\clock\bin\Debug\net5.0\clock.pdb
+C:\Users\Hamid Reza\Desktop\New folder\Proj\clock\bin\Debug\net5.0\System.IO.Ports.dll
+C:\Users\Hamid Reza\Desktop\New folder\Proj\clock\bin\Debug\net5.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Hamid Reza\Desktop\New folder\Proj\clock\bin\Debug\net5.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Hamid Reza\Desktop\New folder\Proj\clock\bin\Debug\net5.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Hamid Reza\Desktop\New folder\Proj\clock\bin\Debug\net5.0\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Hamid Reza\Desktop\New folder\Proj\clock\bin\Debug\net5.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Hamid Reza\Desktop\New folder\Proj\clock\obj\Debug\net5.0\clock.csproj.CopyComplete
+C:\Users\Hamid Reza\Desktop\New folder\Proj\clock\obj\Debug\net5.0\clock.dll
+C:\Users\Hamid Reza\Desktop\New folder\Proj\clock\obj\Debug\net5.0\ref\clock.dll
+C:\Users\Hamid Reza\Desktop\New folder\Proj\clock\obj\Debug\net5.0\clock.pdb
+C:\Users\Hamid Reza\Desktop\New folder\Proj\clock\obj\Debug\net5.0\clock.genruntimeconfig.cache
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\clock\bin\Debug\net5.0\clock.exe
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\clock\bin\Debug\net5.0\clock.deps.json
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\clock\bin\Debug\net5.0\clock.runtimeconfig.json
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\clock\bin\Debug\net5.0\clock.runtimeconfig.dev.json
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\clock\bin\Debug\net5.0\clock.dll
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\clock\bin\Debug\net5.0\ref\clock.dll
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\clock\bin\Debug\net5.0\clock.pdb
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\clock\bin\Debug\net5.0\System.IO.Ports.dll
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\clock\bin\Debug\net5.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\clock\bin\Debug\net5.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\clock\bin\Debug\net5.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\clock\bin\Debug\net5.0\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\clock\bin\Debug\net5.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\clock\obj\Debug\net5.0\clock.csproj.AssemblyReference.cache
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\clock\obj\Debug\net5.0\clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\clock\obj\Debug\net5.0\clock.AssemblyInfoInputs.cache
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\clock\obj\Debug\net5.0\clock.AssemblyInfo.cs
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\clock\obj\Debug\net5.0\clock.csproj.CoreCompileInputs.cache
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\clock\obj\Debug\net5.0\clock.csproj.CopyComplete
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\clock\obj\Debug\net5.0\clock.dll
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\clock\obj\Debug\net5.0\ref\clock.dll
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\clock\obj\Debug\net5.0\clock.pdb
+C:\Users\Hamid Reza\Desktop\New folder\DLMS Connection (Hamidreza Zarei Project)\clock\obj\Debug\net5.0\clock.genruntimeconfig.cache
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\clock\bin\Debug\net5.0\clock.exe
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\clock\bin\Debug\net5.0\clock.deps.json
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\clock\bin\Debug\net5.0\clock.runtimeconfig.json
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\clock\bin\Debug\net5.0\clock.runtimeconfig.dev.json
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\clock\bin\Debug\net5.0\clock.dll
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\clock\bin\Debug\net5.0\clock.pdb
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\clock\bin\Debug\net5.0\System.IO.Ports.dll
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\clock\bin\Debug\net5.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\clock\bin\Debug\net5.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\clock\bin\Debug\net5.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\clock\bin\Debug\net5.0\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\clock\bin\Debug\net5.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\clock\obj\Debug\net5.0\clock.csproj.AssemblyReference.cache
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\clock\obj\Debug\net5.0\clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\clock\obj\Debug\net5.0\clock.AssemblyInfoInputs.cache
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\clock\obj\Debug\net5.0\clock.AssemblyInfo.cs
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\clock\obj\Debug\net5.0\clock.csproj.CoreCompileInputs.cache
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\clock\obj\Debug\net5.0\clock.csproj.Up2Date
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\clock\obj\Debug\net5.0\clock.dll
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\clock\obj\Debug\net5.0\refint\clock.dll
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\clock\obj\Debug\net5.0\clock.pdb
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\clock\obj\Debug\net5.0\clock.genruntimeconfig.cache
+C:\Users\zaree\Downloads\Telegram Desktop\DLMS Connection (Hamidreza Zarei Project)\DLMS Connection (Hamidreza Zarei Project)\clock\obj\Debug\net5.0\ref\clock.dll
+G:\proj\project\C# codes\clock\bin\Debug\net5.0\clock.exe
+G:\proj\project\C# codes\clock\bin\Debug\net5.0\clock.deps.json
+G:\proj\project\C# codes\clock\bin\Debug\net5.0\clock.runtimeconfig.json
+G:\proj\project\C# codes\clock\bin\Debug\net5.0\clock.runtimeconfig.dev.json
+G:\proj\project\C# codes\clock\bin\Debug\net5.0\clock.dll
+G:\proj\project\C# codes\clock\bin\Debug\net5.0\clock.pdb
+G:\proj\project\C# codes\clock\bin\Debug\net5.0\System.IO.Ports.dll
+G:\proj\project\C# codes\clock\bin\Debug\net5.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+G:\proj\project\C# codes\clock\bin\Debug\net5.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+G:\proj\project\C# codes\clock\bin\Debug\net5.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+G:\proj\project\C# codes\clock\bin\Debug\net5.0\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+G:\proj\project\C# codes\clock\bin\Debug\net5.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+G:\proj\project\C# codes\clock\obj\Debug\net5.0\clock.csproj.AssemblyReference.cache
+G:\proj\project\C# codes\clock\obj\Debug\net5.0\clock.GeneratedMSBuildEditorConfig.editorconfig
+G:\proj\project\C# codes\clock\obj\Debug\net5.0\clock.AssemblyInfoInputs.cache
+G:\proj\project\C# codes\clock\obj\Debug\net5.0\clock.AssemblyInfo.cs
+G:\proj\project\C# codes\clock\obj\Debug\net5.0\clock.csproj.CoreCompileInputs.cache
+G:\proj\project\C# codes\clock\obj\Debug\net5.0\clock.csproj.Up2Date
+G:\proj\project\C# codes\clock\obj\Debug\net5.0\clock.dll
+G:\proj\project\C# codes\clock\obj\Debug\net5.0\refint\clock.dll
+G:\proj\project\C# codes\clock\obj\Debug\net5.0\clock.pdb
+G:\proj\project\C# codes\clock\obj\Debug\net5.0\clock.genruntimeconfig.cache
+G:\proj\project\C# codes\clock\obj\Debug\net5.0\ref\clock.dll

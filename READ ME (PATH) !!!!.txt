@@ -1,0 +1,4 @@
+
+(code) ---> proj ---> DLMS.csproj
+
+(app)  ---> proj ---> bin ---> Debug ---> net5.0 ---> DLMS.exe 

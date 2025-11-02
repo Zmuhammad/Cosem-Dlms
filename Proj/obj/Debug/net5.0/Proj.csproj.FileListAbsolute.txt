@@ -1,0 +1,5 @@
+C:\Users\Hamid Reza\Desktop\New folder\Proj\Proj\obj\Debug\net5.0\Proj.csproj.AssemblyReference.cache
+C:\Users\Hamid Reza\Desktop\New folder\Proj\Proj\obj\Debug\net5.0\Proj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamid Reza\Desktop\New folder\Proj\Proj\obj\Debug\net5.0\Proj.AssemblyInfoInputs.cache
+C:\Users\Hamid Reza\Desktop\New folder\Proj\Proj\obj\Debug\net5.0\Proj.AssemblyInfo.cs
+C:\Users\Hamid Reza\Desktop\New folder\Proj\Proj\obj\Debug\net5.0\Proj.csproj.CoreCompileInputs.cache
